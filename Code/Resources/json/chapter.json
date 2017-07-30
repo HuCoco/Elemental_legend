@@ -1,0 +1,22 @@
+{
+	"CHAPTER_1" : {
+		"CHAPTER_TITLE" : "第一幕",
+		"CHAPTER_INFO" : "沙漠之谜"	
+	},
+	"CHAPTER_2" : {
+		"CHAPTER_TITLE" : "第二幕",
+		"CHAPTER_INFO" : "虚空世界"	
+	},
+	"CHAPTER_3" : {
+		"CHAPTER_TITLE" : "第三幕",
+		"CHAPTER_INFO" : "恐怖森林"	
+	},
+	"CHAPTER_4" : {
+		"CHAPTER_TITLE" : "第四幕",
+		"CHAPTER_INFO" : " 极寒地带"	
+	},
+	"CHAPTER_5" : {
+		"CHAPTER_TITLE" : "第五幕",
+		"CHAPTER_INFO" : "炙炎地带"	
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"mission1" : {
+		"Cur" : "C",
+		"Info" : "消耗50个火元素",
+		"Value" : 60,
+		"Tag" : 50
+	},
+	"mission2" : {
+		"Cur" : "C",
+		"Info" : "消耗50个水元素",
+		"Value" : 60,
+		"Tag" : 50
+	},
+	"mission3" : {
+		"Cur" : "C",
+		"Info" : "消耗50个风元素",
+		"Value" : 60,
+		"Tag" : 50
+	},
+	"mission4" : {
+		"Cur" : "C",
+		"Info" : "消耗50个雷元素",
+		"Value" : 60,
+		"Tag" : 50
+	}
+}

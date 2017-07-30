@@ -1,0 +1,37 @@
+{
+	"Item#0":{
+		"name" : "沙漠微尘",
+		"info" : "沙漠中含有微量魔法的沙尘",
+		"suit" : 0,
+		"minvalue" : 2,
+		"maxvalue" : 4
+	},
+	"Item#1":{
+		"name" : "沙漠晶石",
+		"info" : "还未被加工的魔法晶石，里面的魔法还需要进一步开发",
+		"suit" : 0,
+		"minvalue" : 4,
+		"maxvalue" : 8
+	},
+	"Item#2":{
+		"name" : "沙漠水晶",
+		"info" : "兽人祭祀最常用的水晶，他们常用这种水晶提升自己的魔力",
+		"suit" : 0,
+		"minvalue" : 9,
+		"maxvalue" : 15
+	},
+	"Item#3":{
+		"name" : "沙漠灵石",
+		"info" : "沙漠灵石是元素们的造物，其中蕴含的魔力是水晶不可比拟的",
+		"suit" : 1,
+		"minvalue" : 16,
+		"maxvalue" : 20
+	},
+	"Item#4":{
+		"name" : "沙漠之心",
+		"info" : "传奇元素使——菲尔德曾拥有过灵石，菲尔德也因此站在了元素法师的顶端",
+		"suit" : 0,
+		"minvalue" : 20,
+		"maxvalue" : 30
+	}
+}
